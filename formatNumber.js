@@ -1,3 +1,4 @@
+//here the function
 function formatNumber(number, tf)
 {
   number = number.toFixed(tf) + '';
